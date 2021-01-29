@@ -8,4 +8,12 @@
 include::data.csv[]
 |===
 
+
+[%header,format=csv]
+|===
+Artist,Track,Genre
+Baauer,Harlem Shake,Hip Hop
+The Lumineers,Ho Hey,Folk Rock
+|===
+
 === Header 2

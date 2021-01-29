@@ -22,9 +22,11 @@ Baauer,Harlem Shake,Hip Hop
 ,===
 
 .Toggle Me
-[%collapsible]
-====
-This content is revealed when the "Toggle Me" label is clicked.
-====
+[%collapsible,%header,format=csv]
+|===
+Artist,Track,Genre
+Baauer,Harlem Shake,Hip Hop
+The Lumineers,Ho Hey,Folk Rock
+|===
 
 === Header 2

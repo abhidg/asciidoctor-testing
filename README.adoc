@@ -22,11 +22,14 @@ Baauer,Harlem Shake,Hip Hop
 ,===
 
 .Toggle Me
-[%collapsible,%header,format=csv]
+[%collapsible]
+====
+[%header,format=csv]
 |===
 Artist,Track,Genre
 Baauer,Harlem Shake,Hip Hop
 The Lumineers,Ho Hey,Folk Rock
 |===
+====
 
 === Header 2

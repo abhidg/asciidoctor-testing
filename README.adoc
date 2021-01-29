@@ -21,4 +21,10 @@ Artist,Track,Genre
 Baauer,Harlem Shake,Hip Hop
 ,===
 
+.Toggle Me
+[%collapsible]
+====
+This content is revealed when the "Toggle Me" label is clicked.
+====
+
 === Header 2
